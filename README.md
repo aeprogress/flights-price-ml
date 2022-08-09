@@ -6,7 +6,7 @@ The dataset contains flight tickets price from different airline companies along
 | Feature        |  Description                                       |
 |   :---:        |     :---:                                          |
 | Price(target)  | The price of the ticket.                           |
-| Airline        | The airline company name.                          |
+| Airline        | The airline name.                                  |
 | Source         | The source from which the service begins.          |
 | Destination    | The destination where the service ends.            |
 | Dep_Time       | The time when the journey starts from the source.  |
